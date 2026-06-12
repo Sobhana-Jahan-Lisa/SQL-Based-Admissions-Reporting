@@ -1,0 +1,10 @@
+applicant_id,applicant_name,email,program,missing_document
+2,Daniel Carter,daniel.carter@example.edu,Data Science MS,Recommendation Letters
+3,Mei Chen,mei.chen@example.edu,Cybersecurity MS,English Proficiency
+9,Layla Hassan,layla.hassan@example.edu,Computer Science PhD,Recommendation Letters
+9,Layla Hassan,layla.hassan@example.edu,Computer Science PhD,Statement of Purpose
+11,Yusuf Khan,yusuf.khan@example.edu,Cybersecurity MS,English Proficiency
+13,Akira Sato,akira.sato@example.edu,Computer Science MS,Transcript
+19,Hana Kim,hana.kim@example.edu,Computer Science PhD,English Proficiency
+20,David Lee,david.lee@example.edu,Data Science MS,Recommendation Letters
+20,David Lee,david.lee@example.edu,Data Science MS,Statement of Purpose

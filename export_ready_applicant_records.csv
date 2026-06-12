@@ -1,0 +1,21 @@
+applicant_id,first_name,last_name,email,program_name,degree_level,term,citizenship_status,application_status,submitted_date,decision_date,assigned_reviewer,gpa
+1,Amina,Rahman,amina.rahman@example.edu,Computer Science,PhD,Fall 2026,International,Under Review,2026-01-05,,Dr. Sara Mitchell,3.82
+2,Daniel,Carter,daniel.carter@example.edu,Data Science,MS,Fall 2026,Domestic,Incomplete,2026-01-08,,Graduate School Staff,3.54
+3,Mei,Chen,mei.chen@example.edu,Cybersecurity,MS,Spring 2027,International,Submitted,2026-01-12,,Unassigned,3.71
+4,Carlos,Rivera,carlos.rivera@example.edu,Computer Science,PhD,Fall 2026,Domestic,Admitted,2026-01-17,2026-03-01,Dr. Raju Ahmed,3.9
+5,Fatima,Noor,fatima.noor@example.edu,Information Systems,MS,Fall 2026,International,Waitlisted,2026-01-19,2026-03-05,Program Committee,3.66
+6,Noah,Williams,noah.williams@example.edu,Data Science,MS,Spring 2027,Domestic,Denied,2026-01-22,2026-03-10,Program Committee,3.2
+7,Priya,Patel,priya.patel@example.edu,Computer Science,MS,Fall 2026,International,Submitted,2026-02-01,,Unassigned,3.78
+8,Ethan,Brooks,ethan.brooks@example.edu,Cybersecurity,MS,Fall 2026,Domestic,Under Review,2026-02-03,,Dr. Sara Mitchell,3.45
+9,Layla,Hassan,layla.hassan@example.edu,Computer Science,PhD,Fall 2026,International,Incomplete,2026-02-05,,Graduate School Staff,3.88
+10,Olivia,Green,olivia.green@example.edu,Data Science,MS,Fall 2026,Domestic,Admitted,2026-02-11,2026-03-20,Dr. Raju Ahmed,3.77
+11,Yusuf,Khan,yusuf.khan@example.edu,Cybersecurity,MS,Fall 2026,International,Submitted,2026-02-15,,Unassigned,3.69
+12,Mia,Thompson,mia.thompson@example.edu,Information Systems,MS,Spring 2027,Domestic,Under Review,2026-02-18,,Program Committee,3.58
+13,Akira,Sato,akira.sato@example.edu,Computer Science,MS,Fall 2026,International,Incomplete,2026-03-01,,Graduate School Staff,3.61
+14,James,Anderson,james.anderson@example.edu,Computer Science,PhD,Fall 2026,Domestic,Submitted,2026-03-04,,Unassigned,3.74
+15,Nadia,Islam,nadia.islam@example.edu,Data Science,MS,Fall 2026,International,Under Review,2026-03-08,,Dr. Sara Mitchell,3.92
+16,Liam,Miller,liam.miller@example.edu,Computer Science,MS,Spring 2027,Domestic,Submitted,2026-03-12,,Unassigned,3.33
+17,Sara,Ali,sara.ali@example.edu,Cybersecurity,MS,Fall 2026,International,Admitted,2026-03-15,2026-04-10,Dr. Raju Ahmed,3.84
+18,Benjamin,Clark,benjamin.clark@example.edu,Information Systems,MS,Fall 2026,Domestic,Denied,2026-03-18,2026-04-12,Program Committee,3.1
+19,Hana,Kim,hana.kim@example.edu,Computer Science,PhD,Spring 2027,International,Submitted,2026-04-01,,Unassigned,3.87
+20,David,Lee,david.lee@example.edu,Data Science,MS,Fall 2026,Domestic,Incomplete,2026-04-07,,Graduate School Staff,3.4
