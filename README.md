@@ -2,11 +2,9 @@
 
 ## Overview
 
-This project simulates a graduate admissions reporting system using SQL, SQLite, Python, and CSV exports. It is designed as a portfolio project for roles involving CRM support, higher-education technology, admissions operations, reporting, workflow support, data exports, and process improvement.
+This project simulates a graduate admissions reporting system using SQL, SQLite, Python, and CSV exports. 
 
 The project uses a simulated graduate admissions database with applicants, programs, required documents, application statuses, reviewers, review records, and application status history. It includes SQL queries that generate common operational reports used by graduate schools or admissions offices.
-
-## Project Purpose
 
 This project demonstrates skills relevant to a Graduate Assistant or CRM support role, including:
 
@@ -44,7 +42,6 @@ SQL-Based-Admissions-Reporting/
 └── docs/
     ├── data_dictionary.md
     ├── report_descriptions.md
-    └── cv_bullets.md
 ```
 
 ## Tools Used
@@ -86,11 +83,3 @@ The script will:
 8. Average processing time by program
 9. Export-ready applicant records
 
-## Important Note
-
-This is a simulated academic portfolio project. It does not use real student records, real applicant data, institutional credentials, or a live CRM database.
-
-## Suggested CV Description
-
-**SQL-Based Admissions Reporting and Data Export Project**  
-Designed a simulated graduate admissions database and developed SQL queries to generate operational reports, including applicant counts by program, incomplete applications, missing documents, application status summaries, reviewer assignments, and export-ready applicant records. Demonstrated skills in database querying, data cleaning, reporting, CSV export, and higher-education admissions workflow analysis.
